@@ -16,6 +16,7 @@ Dependencies:
 If you'd like to download notflix in the 'traditional' way, then follow these steps.
 * `$ git clone https://github.com/ayylmaonade/notflix`
 * `$ cd notflix`
+* `$ chmod +x notflix`
 * `$ sudo cp notflix /usr/local/bin`
 
 Optional: `$ rm -rf notflix` -- this removes the cloned repo as only the source notflix script is required.
