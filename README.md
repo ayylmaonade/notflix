@@ -1,4 +1,5 @@
-<h1 align="center">NOTFLIX</h1>
+<h1 align="center">Notflix</h1>
+<p align="center">Downloading torrents is old news, stream them with Notflix!</p>
 <p align="center">Fork of notflix using older codebase</p>
 
 <p align="center">
