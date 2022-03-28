@@ -1,9 +1,9 @@
 #!/bin/sh
 
-# Dependencies - webtorrent, mpv
+# Dependencies - webtorrent, mpv, dmenu
 
-### PLACE IN /usr/local/bin ###
-#!!! 			   !!!#
+# PLACE IN /usr/local/bin 
+ 			   
 
 mkdir -p $HOME/.cache/notflix
 
