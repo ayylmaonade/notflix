@@ -71,6 +71,6 @@ curl -s $fullURL > $cachedir/tmp.html
 magnet=$(grep -Po "magnet:\?xt=urn:btih:[a-zA-Z0-9]*" $cachedir/tmp.html | head -n 1) 
 
 # Notification
-sleep 4 && notify-send "Starting mpv... Enjoy! 🍿" -i "NONE"
+sleep 5 && notify-send "Connecting & starting mpv... Enjoy! 🍿" -i "NONE"
 
 webtorrent "$magnet" --mpv 
